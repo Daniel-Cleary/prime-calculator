@@ -1,1 +1,1 @@
-# fibonacci-calculator
+# prime-calculator
